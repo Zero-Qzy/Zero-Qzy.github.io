@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conda on The world</title>
+    <link>https://Zero-Qzy.github.io/tags/conda/</link>
+    <description>Recent content in conda on The world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 00:08:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://Zero-Qzy.github.io/tags/conda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conda</title>
+      <link>https://Zero-Qzy.github.io/2020/04/conda/</link>
+      <pubDate>Sun, 26 Apr 2020 00:08:13 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/2020/04/conda/</guid>
+      <description>&lt;p&gt;#conda的基本使用&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
