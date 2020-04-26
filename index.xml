@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The world</title>
+    <link>https://Zero-Qzy.github.io/</link>
+    <description>Recent content on The world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 11:24:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://Zero-Qzy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>模板</title>
+      <link>https://Zero-Qzy.github.io/2020/04/%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Sun, 26 Apr 2020 11:24:21 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/2020/04/%E6%A8%A1%E6%9D%BF/</guid>
+      <description>&lt;p&gt;常用代码模板&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conda</title>
+      <link>https://Zero-Qzy.github.io/2020/04/conda/</link>
+      <pubDate>Sun, 26 Apr 2020 00:08:13 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/2020/04/conda/</guid>
+      <description>&lt;p&gt;conda的基本使用&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vscode运行C或C&#43;&#43;程序</title>
+      <link>https://Zero-Qzy.github.io/2020/04/vscode%E8%BF%90%E8%A1%8Cc%E6%88%96c-%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Tue, 21 Apr 2020 13:30:15 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/2020/04/vscode%E8%BF%90%E8%A1%8Cc%E6%88%96c-%E7%A8%8B%E5%BA%8F/</guid>
+      <description>&lt;p&gt;Vscode对C或者C++程序的简单运行&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PAT_A1107</title>
+      <link>https://Zero-Qzy.github.io/2020/04/pat_a1107/</link>
+      <pubDate>Tue, 21 Apr 2020 13:25:06 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/2020/04/pat_a1107/</guid>
+      <description>&lt;p&gt;甲级1107，并查集应用&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

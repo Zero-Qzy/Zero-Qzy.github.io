@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The world</title>
+    <link>https://Zero-Qzy.github.io/categories/</link>
+    <description>Recent content in Categories on The world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 11:24:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://Zero-Qzy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://Zero-Qzy.github.io/categories/c&#43;&#43;/</link>
+      <pubDate>Sun, 26 Apr 2020 11:24:21 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/categories/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conda</title>
+      <link>https://Zero-Qzy.github.io/categories/conda/</link>
+      <pubDate>Sun, 26 Apr 2020 00:08:13 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/categories/conda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vscode</title>
+      <link>https://Zero-Qzy.github.io/categories/vscode/</link>
+      <pubDate>Tue, 21 Apr 2020 13:30:15 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/categories/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAT</title>
+      <link>https://Zero-Qzy.github.io/categories/pat/</link>
+      <pubDate>Tue, 21 Apr 2020 13:25:06 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/categories/pat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
