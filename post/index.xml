@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 00:08:13 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 11:24:21 +0800</lastBuildDate>
     
 	<atom:link href="https://Zero-Qzy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>模板</title>
+      <link>https://Zero-Qzy.github.io/2020/04/%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Sun, 26 Apr 2020 11:24:21 +0800</pubDate>
+      
+      <guid>https://Zero-Qzy.github.io/2020/04/%E6%A8%A1%E6%9D%BF/</guid>
+      <description>&lt;p&gt;常用代码模板&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Conda</title>
@@ -17,7 +26,7 @@
       <pubDate>Sun, 26 Apr 2020 00:08:13 +0800</pubDate>
       
       <guid>https://Zero-Qzy.github.io/2020/04/conda/</guid>
-      <description>&lt;p&gt;#conda的基本使用&lt;/p&gt;</description>
+      <description>&lt;p&gt;conda的基本使用&lt;/p&gt;</description>
     </item>
     
     <item>
